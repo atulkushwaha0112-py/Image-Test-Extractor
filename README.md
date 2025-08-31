@@ -1,15 +1,7 @@
 <!--🧠 Highlight.js and Font Awesome already included in your Blogger theme-->
 <!--🧠 Highlight.js for Code Highlighting-->
 <link href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.min.css" rel="stylesheet"></link>
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
-<script>hljs.highlightAll();</script>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet"></link>
-
-
-
-
-
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd4-5a5JyBjB5rM1Cr6tvHczrtAQVWeuuCiwBp0RdgIlbZ8WjcvWsofxfl0KHxBUDDjkvS6aU7J1ryJhGulDAnS7bg1xb83UHN2YvgNSq8wxgWdgrC2QUNu-QPPeIneeF3ci7tkerKUDZcBuEVDYHt3yvwFawwvqobYW2_3uTSZ6JFWHPVgK3djPhUSf9E/s1080/Instagram%20Post%20-%20Basic%20Arithmetic%20Operators.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1080" data-original-width="1080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd4-5a5JyBjB5rM1Cr6tvHczrtAQVWeuuCiwBp0RdgIlbZ8WjcvWsofxfl0KHxBUDDjkvS6aU7J1ryJhGulDAnS7bg1xb83UHN2YvgNSq8wxgWdgrC2QUNu-QPPeIneeF3ci7tkerKUDZcBuEVDYHt3yvwFawwvqobYW2_3uTSZ6JFWHPVgK3djPhUSf9E/s16000/Instagram%20Post%20-%20Basic%20Arithmetic%20Operators.png" /></a></div><br /><div><br /></div>
 
 
 
@@ -93,4 +85,3 @@ print(text)</code></pre>
     file.write(text)</code></pre>
 
 <hr />
-<p><strong></strong></p><blockquote><strong>🔥 If you have any problem related to Code then - Comment Below</strong></blockquote><p></p>
